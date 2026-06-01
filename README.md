@@ -8,11 +8,11 @@ Actualment estic cursant el Grau Mitjà de Sistemes Microinformàtics i Xarxes (
 
 ## 🧑‍💻 Sobre mi
 
-* 📍 Mataró (Catalunya)
-* 🎓 Grau Mitjà SMX – Escola Pia Santa Anna (2024 – 2026)
-* 🌍 Erasmus+ a Itàlia – Departament IT de dues empreses locals
-* 💼 Pràctiques professionals a Intermega (software de gestió empresarial)
-* ⚽ Futbol sala – disciplina, constància i treball en equip
+- 📍 Mataró (Catalunya)
+- 🎓 Grau Mitjà SMX – Escola Pia Santa Anna (2024 – 2026)
+- 🌍 Erasmus+ a Itàlia – Departament IT de dues empreses locals
+- 💼 Pràctiques professionals a Intermega (software de gestió empresarial)
+- ⚽ Futbol sala – disciplina, constància i treball en equip
 
 Sóc una persona ambiciosa, amb iniciativa i amb moltes ganes de continuar aprenent i desenvolupant-me professionalment dins del sector tecnològic.
 
@@ -21,36 +21,36 @@ Sóc una persona ambiciosa, amb iniciativa i amb moltes ganes de continuar apren
 ## 📄 Formació acadèmica
 
 | Període     | Titulació                       | Centre                |
-| ----------- | ------------------------------- | --------------------- |
-| 2029 – 2023 | Educació Secundària Obligatòria | Cor de Maria Mataró   |
+|------------|--------------------------------|----------------------|
+| 2029 – 2023 | Educació Secundària Obligatòria | Cor de Maria Mataró |
 | 2024 – 2026 | Grau Mitjà SMX                  | Escola Pia Santa Anna |
 
 ---
 
 ## 🛠️ Coneixements adquirits
 
-* Administració bàsica de sistemes Windows i Linux.
-* Instal·lació i configuració d'equips informàtics.
-* Configuració inicial de xarxes i connectivitat.
-* Diagnòstic i resolució de problemes tècnics.
-* Desenvolupament de programes senzills en Python.
-* Suport tècnic orientat a usuaris.
+- Administració i manteniment de sistemes operatius Windows Server i Linux.
+- Muntatge, desmuntatge i configuració de maquinari informàtic.
+- Disseny i configuració de xarxes locals (LAN) i connexions bàsiques.
+- Identificació i resolució d’errors habituals en equips i programari.
+- Introducció a la programació amb Python per a tasques senzilles.
+- Assistència tècnica i suport a usuaris en entorns informàtics.
 
 ---
 
 ## 💼 Experiència professional
 
-### Intermega – Empresa de desenvolupament de software de gestió empresarial
+### Intermega – Empresa de software de gestió empresarial
 
 **Període:** 16/06/2025 – 08/01/2026
 
 #### Tasques realitzades
 
-* Atenció i assistència tècnica a usuaris.
-* Seguiment i resolució d'incidències informàtiques.
-* Comprovació del funcionament d'aplicacions i equips.
-* Suport en tasques de manteniment tècnic.
-* Col·laboració amb diferents membres de l'equip de treball.
+- Gestió de peticions d’assistència tècnica i incidències.
+- Diagnòstic de problemes en sistemes i aplicacions.
+- Verificació del correcte funcionament d’equips i programes.
+- Suport en processos de manteniment preventiu i correctiu.
+- Coordinació amb l’equip tècnic per resoldre incidències.
 
 ### Erasmus+ a Itàlia – Departament IT de dues empreses locals
 
@@ -58,48 +58,45 @@ Sóc una persona ambiciosa, amb iniciativa i amb moltes ganes de continuar apren
 
 #### Tasques realitzades
 
-* Suport tècnic en incidències de software i hardware.
-* Preparació i configuració de dispositius informàtics.
-* Assistència als usuaris en consultes tècniques.
-* Comunicació en anglès dins d'un entorn professional.
-* Adaptació als processos de treball d'un entorn internacional.
+- Resolució de problemes tècnics en hardware i software.
+- Instal·lació i preparació d’equips informàtics per a usuaris.
+- Atenció a consultes tècniques en un entorn laboral real.
+- Comunicació professional en anglès amb equips internacionals.
+- Adaptació a metodologies de treball d’empreses estrangeres.
 
 ---
 
 ## 🌍 Idiomes
 
-* Castellà — Nadiu
-* Català — Nadiu
-* Anglès — B2
+- Castellà — Nadiu
+- Català — Nadiu
+- Anglès — B2
 
 ---
 
 ## 🤝 Competències personals
 
-* Capacitat d'aprenentatge continu.
-* Organització i responsabilitat.
-* Treball en equip.
-* Adaptabilitat davant nous reptes.
-* Resolució de problemes.
-* Actitud positiva i proactiva.
+- Capacitat per adaptar-me ràpidament a nous entorns de treball.
+- Responsabilitat i compromís en les tasques assignades.
+- Habilitats per treballar en equip.
+- Pensament analític per afrontar problemes tècnics.
+- Iniciativa per aprendre de manera autònoma.
+- Constància i actitud de millora contínua.
 
 ---
 
 ## 💻 Habilitats tècniques
 
-* Sistemes operatius Windows i Linux.
-* Suport i manteniment informàtic.
-* Resolució d'incidències tècniques.
-* Coneixements bàsics de xarxes.
-* Programació bàsica en Python.
-* Automatització de processos amb intel·ligència artificial (en aprenentatge).
+- Sistemes operatius Windows, Linux i entorns bàsics de servidor.
+- Manteniment i reparació d’equips informàtics.
+- Configuració i suport de xarxes locals.
+- Diagnòstic de problemes de maquinari i programari.
+- Introducció a eines d’intel·ligència artificial per automatització de tasques.
 
 ---
 
 ## 📬 Contacte
 
-📧 **Email:** [xavilopezpardo@gmail.com](mailto:xavilopezpardo@gmail.com)
-
-📞 **Telèfon:** +34 690 30 62 26
-
-💻 **GitHub:** xalopa
+- 📧 Email: [xavilopezpardo@gmail.com](mailto:xavilopezpardo@gmail.com)
+- 📞 Telèfon: +34 690 30 62 26
+- 💻 GitHub: xalopa
