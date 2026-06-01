@@ -52,7 +52,7 @@ Sóc una persona ambiciosa, amb iniciativa i amb moltes ganes de continuar apren
 * Suport en tasques de manteniment tècnic.
 * Col·laboració amb diferents membres de l'equip de treball.
 
-### Erasmus+ a Itàlia – Departament IT d'una empresa local
+### Erasmus+ a Itàlia – Departament IT de dues empreses locals
 
 **Període:** 16/09/2025 – 08/11/2025
 
