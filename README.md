@@ -22,7 +22,7 @@ Sóc una persona ambiciosa, amb iniciativa i amb moltes ganes de continuar apren
 
 | Període     | Titulació                       | Centre                |
 | ----------- | ------------------------------- | --------------------- |
-| 2029 – 2023 | Educació Secundària Obligatòria | Escola Pia Santa Anna |
+| 2029 – 2023 | Educació Secundària Obligatòria | Cor de Maria Mataró   |
 | 2024 – 2026 | Grau Mitjà SMX                  | Escola Pia Santa Anna |
 
 ---
