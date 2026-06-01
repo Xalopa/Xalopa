@@ -42,7 +42,7 @@ Sóc una persona ambiciosa, amb iniciativa i amb moltes ganes de continuar apren
 
 ### Intermega – Empresa de desenvolupament de software de gestió empresarial
 
-**Període:** 16/06/2025 – 08/01/2025
+**Període:** 16/06/2025 – 08/01/2026
 
 #### Tasques realitzades
 
